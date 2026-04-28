@@ -41,13 +41,15 @@ Personal AI operating system handling my own daily ops: scheduled cron agents, v
 
 ## Stack I use daily
 
-**AI & RAG:** Python · LangChain · LangGraph · LlamaIndex · ChromaDB · FastAPI · Langfuse · Hybrid retrieval · LLM evaluation · Prompt engineering
+**AI & RAG:** Python · FastAPI + Pydantic · LangChain · LangGraph · LlamaIndex · ChromaDB · Langfuse · LLM evaluation · Prompt engineering
 
 **Workflow & Integration:** n8n · REST APIs · Webhooks · Airtable · Google Sheets
 
 **Voice:** Vapi · Retell
 
-**Infra:** Streamlit · HF Spaces · Docker · VPS deployment · Telegram Bot API
+**Deployment:** Streamlit · HF Spaces
+
+**Models:** Model-agnostic across LLM families - Claude, GPT-4, open-source.
 
 New tooling in this field shows up monthly - I learn whatever a project needs. The toolset isn't the value, the system that ships is.
 
@@ -55,8 +57,8 @@ New tooling in this field shows up monthly - I learn whatever a project needs. T
 
 ## Looking for
 
-Full-time remote role as **AI Engineer / AI Automation Engineer / LLM Engineer / Forward Deployed Engineer / Solutions Engineer (AI)**. Also taking 1-2 selective contract engagements per month.
+Full-time remote role as **AI Engineer / AI Automation Engineer / LLM Engineer / Forward Deployed Engineer / Solutions Engineer (AI)**. Also open to freelance projects.
 
 Open to US · UK · EU · Singapore · Vietnam timezones.
 
-**Contact:** andrey2014536@gmail.com | [LinkedIn](https://www.linkedin.com/in/andrey-ovsyannikov-12a5b2404/)
+**Contact:** [LinkedIn](https://www.linkedin.com/in/andrey-ovsyannikov-12a5b2404/)
